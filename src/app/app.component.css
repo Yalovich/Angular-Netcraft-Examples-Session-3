@@ -1,0 +1,15 @@
+:host
+{
+    display: block;
+    color: aqua;
+}
+
+article
+{
+    border: 3px solid brown;
+}
+
+body
+{
+    background-color: palegreen;
+}
